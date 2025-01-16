@@ -114,7 +114,3 @@ uhd_usrp_probe
 
 ---
 
----
-
-With this setup, UHD should successfully detect and initialize your USRP B210 device. If further issues arise, consult the [Ettus Knowledge Base](https://kb.ettus.com/) or UHD documentation.
-
