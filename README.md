@@ -114,11 +114,6 @@ uhd_usrp_probe
 
 ---
 
-## **Additional Notes**
-- Ensure you have the correct UHD version installed. Use `uhd_config_info --version` to check the version.
-- Always run GNU Radio or related applications with the proper permissions if USB rules are not configured.
-- If the issue persists, ensure the USB cable and port are functioning correctly.
-
 ---
 
 With this setup, UHD should successfully detect and initialize your USRP B210 device. If further issues arise, consult the [Ettus Knowledge Base](https://kb.ettus.com/) or UHD documentation.
